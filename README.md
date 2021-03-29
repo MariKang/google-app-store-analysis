@@ -1,5 +1,5 @@
 # Google Play Store Data Analysis
-## How To Make an Application of High Ratings
+How To Make an Application of High Ratings
 
 ## About
 This project identifies the relationships between the rating of the application and other factors of the applications including price, genre, and size. The primary goal of this project is to find correlation or interesting findngs about the rating and figure out an optimal way to make an application of high ratings in google play store.
