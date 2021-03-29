@@ -1,0 +1,932 @@
+free,genre,contentRating,size,score,title,price
+True,Social,Teen,31M,2.9937127,Parler,0
+True,Business,Everyone,109M,3.401708,ZOOM Cloud Meetings,0
+True,Social,Teen,83M,4.530123,TikTok,0
+True,Shopping,Everyone,104M,3.8435152,Walmart Shopping & Grocery,0
+True,Finance,Everyone,32M,4.219018,Cash App,0
+True,News & Magazines,Everyone,Varies with device,4.4204545,Newsmax TV & Web,0
+True,News & Magazines,Everyone 10+,45M,4.454813,CNN Breaking US & World News,0
+True,Communication,Everyone,Varies with device,4.2901297,WhatsApp Messenger,0
+True,Social,Teen,Varies with device,4.4334297,Instagram,0
+True,Entertainment,Teen,Varies with device,4.456336,Disney+,0
+True,Social,Teen,64M,4.304368,Snapchat,0
+True,Communication,Teen,77M,4.519688,"Discord - Talk, Video Chat & Hang Out with Friends",0
+True,Entertainment,Teen,19M,4.627549,Tubi - Free Movies & TV Shows,0
+True,Communication,Everyone,Varies with device,4.2502646,Messenger – Text and Video Chat for Free,0
+True,Food & Drink,Everyone,33M,4.595432,DoorDash - Food Delivery,0
+True,Social,Mature 17+,Varies with device,4.355054,Twitter,0
+True,Finance,Everyone,76M,4.2665143,PayPal Mobile Cash: Send and Request Money Fast,0
+True,News & Magazines,Teen,13M,4.208615,News Break: Local Breaking Stories & US Headlines,0
+True,Business,Everyone,Varies with device,3.0509253,Google Meet - Secure Video Meetings,0
+True,Business,Everyone,Varies with device,4.1351542,Microsoft Teams,0
+True,Productivity,Everyone,5.2M,4.5617723,QR & Barcode Reader,0
+True,Entertainment,Teen,Varies with device,4.42692,Netflix,0
+True,Entertainment,Teen,19M,4.682282,REFACE: Face swap videos and memes with your photo,0
+True,Finance,Everyone,71M,4.4301934,Venmo,0
+True,Music & Audio,Teen,Varies with device,2.8367631,YouTube Music - Stream Songs & Music Videos,0
+True,Entertainment,Teen,Varies with device,4.3288236,Google Play Games,0
+True,Lifestyle,Teen,Varies with device,4.627777,Pinterest,0
+True,Video Players & Editors,Teen,74M,4.331023,Likee - Let You Shine,0
+True,Communication,Everyone,Varies with device,4.3719773,TextNow: Free Texting & Calling App,0
+True,Music & Audio,Teen,Varies with device,4.4817944,Spotify: Listen to new music and play podcasts,0
+True,Shopping,Teen,Varies with device,4.09668,"Amazon Shopping - Search, Find, Ship, and Save",0
+True,Shopping,Everyone,27M,4.475867,Cute,0
+True,Entertainment,Teen,52M,3.3672907,"HBO Max: Stream HBO, TV, Movies & More",0
+True,Social,Teen,Varies with device,4.1650257,Facebook,0
+True,News & Magazines,Everyone 10+,Varies with device,2.8007605,"Fox News: Breaking News, Live Video & News Alerts",0
+True,Shopping,Teen,28M,4.315271,Wish - Shopping Made Fun,0
+True,Entertainment,Teen,Varies with device,4.2531614,Amazon Prime Video,0
+True,Food & Drink,Everyone,74M,4.305125,Uber Eats: Food Delivery,0
+True,Entertainment,Teen,Varies with device,4.0033827,Pluto TV - Free Live TV and Movies,0
+True,Medical,Everyone,Varies with device,4.195605,MyChart,0
+True,Communication,Mature 17+,Varies with device,4.493645,Telegram,0
+True,Shopping,Everyone,57M,4.1861153,OfferUp: Buy. Sell. Letgo. Mobile marketplace,0
+True,News & Magazines,Everyone,14M,4.4929757,US Breaking News: Latest Local News & Breaking,0
+True,Entertainment,Teen,9.8M,4.104501,Hulu: Stream TV shows & watch the latest movies,0
+True,Shopping,Everyone,67M,4.522406,Shop: package & order tracker,0
+True,Entertainment,Teen,Varies with device,4.3953195,Roku,0
+True,Productivity,Everyone,7.6M,4.7673135,FREE QR Scanner: Barcode Scanner & QR Code Scanner,0
+True,Food & Drink,Everyone,90M,3.2697003,McDonald's,0
+True,News & Magazines,Mature 17+,Varies with device,4.4952855,Reddit,0
+True,Social,Mature 17+,57M,4.331147,"BIGO LIVE–Live Stream, Live Chat, Go Live",0
+False,Productivity,Everyone,16M,2.803912,HotSchedules,2.99
+False,Education,Everyone,57M,4.4453554,SkyView® Explore the Universe,1.99
+False,Entertainment,Everyone,Varies with device,4.4883723,Scanner Radio Pro - Fire and Police Scanner,2.99
+False,Education,Everyone,46M,4.213178,Toca Life: Neighborhood,3.99
+False,Music & Audio,Everyone,Varies with device,4.5414944,Poweramp Full Version Unlocker,4.99
+False,Maps & Navigation,Everyone,9.1M,4.4780765,Navigation Pro: Google Maps Navi on Samsung Watch,2.99
+False,Education,Everyone,46M,4.3909774,Toca Life: Hospital,3.99
+False,Communication,Everyone,16M,3.744031,Torque Pro (OBD 2 & Car),4.95
+False,Personalization,Everyone,Varies with device,4.670553,Nova Launcher Prime,4.99
+False,Health & Fitness,Everyone,54M,4.613089,The Wonder Weeks vs 9,3.99
+False,Tools,Everyone,1.8M,4.295522,KWGT Kustom Widget Pro Key,5.99
+False,Music & Audio,Everyone,11M,4.265887,FL Studio Mobile,14.99
+False,Entertainment,Everyone,4.5M,3.9937108,"Ultimate Ghost Detector (real EMF, EVP recorder)",2.49
+False,Tools,Everyone,1.6M,4.5,DroidCamX,4.99
+False,Lifestyle,Everyone,34M,3.6666667,Jacquie Lawson 2020 Nordic Advent Calendar,4.99
+False,Lifestyle,Teen,71M,3.920354,Necrophonic,9.99
+False,Education,Everyone 10+,46M,4.319261,Toca Life: Vacation,3.99
+False,Tools,Everyone,Varies with device,4.389692,Tasker,3.49
+False,Education,Everyone 10+,46M,4.3733077,Toca Life: School,3.99
+False,Education,Everyone,46M,4.1126003,Toca Life: Office,3.99
+False,Personalization,Everyone,67M,4.7117796,LineX Icon Pack,0.99
+False,Photography,Everyone,15M,4.609951,TouchRetouch,2.0
+False,Education,Everyone,46M,4.2552953,Toca Life: Town,3.99
+False,Tools,Everyone,8.2M,3.0505514,Panda Gamepad Pro (BETA),3.99
+False,Travel & Local,Everyone,5.7M,4.5526314,PassWarrior,2.49
+False,Education,Everyone,31M,4.2138157,Toca Lab: Elements,3.99
+False,Communication,Everyone,58k,3.553713,FoxFi Key (supports PdaNet),7.99
+False,Education,Everyone 10+,46M,4.5121326,Toca Life: Stable,3.99
+False,Tools,Everyone,4.0M,4.2040815,CCSWE App Manager (Samsung),2.49
+False,Communication,Everyone,Varies with device,3.0800185,Puffin Browser Pro,4.99
+False,Entertainment,Mature 17+,81M,4.7802196,Meme Generator PRO,2.99
+False,Tools,Everyone,19M,4.718261,Simple Gallery Pro - Photo Manager & Editor,1.19
+False,Video Players & Editors,Everyone,2.0M,3.8237886,Video & TV Cast | Ultimate Edition,7.99
+False,Music & Audio,Everyone,Varies with device,4.678571,TonalEnergy Tuner and Metronome,3.99
+False,Tools,Everyone,39M,4.6568627,PSPlay: Unlimited PS4 Remote Play,4.99
+False,Education,Everyone,46M,4.304348,Toca Life: After School,3.99
+False,Education,Everyone,30M,4.027027,Toca Pet Doctor,3.99
+False,Education,Everyone,46M,4.3621397,Toca Life: Pets,3.99
+False,Communication,Everyone,Varies with device,4.598605,Threema. Secure and private Messenger,2.99
+False,Tools,Everyone,6.9M,2.04,Screen Mirroring Pro for Roku,4.99
+False,Education,Everyone,Varies with device,4.7596154,Stellarium Mobile PLUS - Star Map,9.99
+False,Medical,Everyone,19M,3.919598,Monash Uni Low FODMAP Diet,9.0
+False,Personalization,Everyone,19M,4.65,Fluent Icon Pack,1.49
+False,Education,Everyone,76M,3.25,XtraMath,4.99
+False,Tools,Everyone,5.5M,2.0,Screen Mirroring Pro App,4.99
+False,Health & Fitness,Teen,35M,2.754902,75 Hard,4.99
+False,Personalization,Everyone,45M,4.6796117,Crayon Icon Pack,0.99
+False,Photography,Everyone,83M,3.587912,FiLMiC Pro: Professional HD Manual Video Camera,14.99
+False,Education,Everyone,140M,4.876791,Universe in a Nutshell,2.99
+False,Books & Reference,Teen,5.2M,4.5319095,WolframAlpha,2.99
+True,Productivity,Everyone,Varies with device,4.3852563,Google One,0
+True,Music & Audio,Teen,Varies with device,4.263244,"Pandora - Streaming Music, Radio & Podcasts",0
+True,Entertainment,Teen,Varies with device,4.554487,Twitch: Livestream Multiplayer Games & Esports,0
+True,Lifestyle,Mature 17+,107M,3.4556127,"Tinder - Dating, Make Friends and Meet New People",0
+True,Sports,Everyone,Varies with device,4.202253,"onX Hunt: Hunting Maps, Offline GPS/Nav & Weather",0
+True,Social,Mature 17+,Varies with device,4.374096,Tango - Live Video Broadcasts and Streaming Chats,0
+True,Entertainment,Teen,Varies with device,4.3511696,STARZ,0
+True,Entertainment,Teen,Varies with device,3.321895,Crunchyroll,0
+True,Lifestyle,Mature 17+,35M,3.3351617,"Bumble – Dating, Make New Friends & Networking",0
+True,Sports,Everyone 10+,Varies with device,3.5939796,ESPN,0
+True,Entertainment,Teen,Varies with device,3.8205264,SHOWTIME,0
+True,Comics,Teen,Varies with device,4.6252484,WEBTOON,0
+True,Productivity,Everyone,104M,4.2053447,"Dropbox: Cloud Storage to Backup, Sync, File Share",0
+True,Entertainment,Teen,26M,3.7271476,CBS - Full Episodes & Live TV,0
+True,Productivity,Everyone,Varies with device,4.3057666,Google Drive,0
+True,Books & Reference,Mature 17+,55M,4.050756,Webnovel,0
+True,Music & Audio,Teen,Varies with device,4.6166,"iHeartRadio: Radio, Podcasts & Music On Demand",0
+True,Sports,Everyone,Varies with device,3.7435896,"DAZN Live Fight Sports: Boxing, MMA & More",0
+True,Education,Everyone,Varies with device,4.676361,Duolingo: Learn Languages Free,0
+True,Social,Mature 17+,57M,3.8232658,MeetMe: Chat & Meet New People,0
+True,Health & Fitness,Everyone,Varies with device,3.7118452,Fitbit,0
+True,Social,Mature 17+,55M,4.4141984,"Tagged - Meet, Chat & Dating",0
+True,Health & Fitness,Everyone,Varies with device,4.4471703,Calorie Counter - MyFitnessPal,0
+True,Dating,Mature 17+,Varies with device,3.574074,Hinge - Dating & Relationships,0
+True,Social,Mature 17+,35M,3.0368574,Grindr - Gay chat,0
+True,Entertainment,Teen,40M,3.4564931,Funimation,0
+True,Health & Fitness,Everyone,Varies with device,4.2788224,"Calm - Meditate, Sleep, Relax",0
+True,Lifestyle,Everyone,53M,4.420676,Life360: Family Locator & GPS Tracker for Safety,0
+True,Books & Reference,Mature 17+,15M,4.43918,Dreame,0
+True,Entertainment,Teen,26M,4.131129,BET+,0
+True,Social,Mature 17+,55M,4.079758,"IMVU: Virtual Life! Style, Avatar 3D, Social Chats",0
+True,Productivity,Everyone,Varies with device,4.5186453,Microsoft OneDrive,0
+True,Photography,Teen,Varies with device,4.229042,"PicsArt Photo Editor: Pic, Video & Collage Maker",0
+True,Comics,Mature 17+,22M,3.8854723,Tappytoon Comics & Webtoons,0
+True,Entertainment,Teen,12M,4.115515,Pantaya,0
+True,Health & Fitness,Everyone,18M,3.7643127,Headspace: Meditation & Sleep,0
+True,Music & Audio,Teen,Varies with device,4.5032363,"TuneIn Radio: Live News, Sports & Music Stations",0
+True,Books & Reference,Teen,12M,4.2297077,"GoodNovel - WebNovel, Books, Web Fictions",0
+True,Entertainment,Teen,17M,3.0546513,Claw Machine Game Toreba -Online Claw Machine Game,0
+True,Entertainment,Teen,Varies with device,4.258484,"Viki: Stream Asian TV Shows, Movies, and Kdramas",0
+True,Productivity,Everyone,222M,4.6099806,"Adobe Acrobat Reader: PDF Viewer, Editor & Creator",0
+True,Dating,Mature 17+,92M,3.9677942,Hily Dating App: Meet New People & Get Great Dates,0
+True,Action,Everyone 10+,75M,4.5160856,Among Us,0
+True,Simulation,Everyone,86M,3.6742425,Acrylic Nails!,0
+True,Racing,Everyone,51M,3.7542946,Shortcut Run,0
+True,Casual,Teen,49M,3.9185138,Chat Master!,0
+True,Simulation,Teen,67M,4.2079396,Fire Craft: 3D Pixel World,0
+True,Puzzle,Everyone,38M,3.6431496,Tangle Master 3D,0
+True,Adventure,Everyone 10+,92M,4.4550266,Roblox,0
+True,Casual,Everyone,87M,4.268107,Let's Be Cops 3D,0
+True,Casual,Everyone,64M,4.270613,Cat Escape,0
+True,Puzzle,Teen,74M,3.3,Stretch Guy,0
+True,Casual,Everyone,92M,3.886718,"Papers Grade, Please!",0
+True,Puzzle,Everyone,40M,4.426873,Woodoku,0
+True,Trivia,Everyone 10+,77M,4.571356,Who is? Brain Teaser & Riddles,0
+True,Action,Everyone 10+,109M,4.4124846,FGTeeV Goozy,0
+True,Puzzle,Everyone,58M,4.4009824,Match 3D - Matching Puzzle Game,0
+True,Arcade,Everyone,66M,3.9766226,Join Clash 3D,0
+True,Arcade,Teen,103M,4.0825977,Force Master,0
+True,Adventure,Everyone,115M,3.9615073,Mr. Slice,0
+True,Arcade,Everyone,119M,3.9146461,Demolish!,0
+True,Simulation,Everyone,38M,4.0020967,Carve The Pencil,0
+True,Arcade,Everyone,45M,4.0770736,Stair Run,0
+True,Music,Teen,74M,4.308849,Tiles Hop: EDM Rush!,0
+True,Casual,Everyone,88M,3.4772727,Wreck Master 3D!,0
+True,Action,Everyone,95M,3.8128204,Scribble Rider,0
+True,Puzzle,Everyone,42M,3.7249632,Water Sort Puzzle,0
+True,Music,Everyone,Varies with device,4.105427,Magic Tiles 3,0
+True,Arcade,Everyone 10+,141M,4.441069,Subway Surfers,0
+True,Casual,Everyone,146M,4.2855487,Homescapes,0
+True,Casual,Everyone,92M,4.3856273,My Talking Tom Friends,0
+True,Action,Teen,113M,4.2538347,Bazooka Boy,0
+True,Arcade,Teen,95M,2.6699028,God Of Pranks,0
+True,Arcade,Everyone,109M,3.567266,Idle Ants - Simulator Game,0
+True,Word,Everyone,51M,4.756365,Word Collect - Free Word Games,0
+True,Casual,Everyone,132M,3.875576,Truck'em All,0
+True,Casual,Teen,16M,4.3429193,Dropping Ball,0
+True,Casual,Everyone,183M,4.0492167,Lip Art 3D,0
+True,Role Playing,Teen,139M,4.171155,Puzzles & Survival,0
+True,Casual,Everyone,82M,3.7933824,Foil Turning 3D,0
+True,Puzzle,Everyone,56M,4.4590063,Wood Block Puzzle - Free Classic Block Puzzle Game,0
+True,Casual,Everyone,74M,4.0525346,Puppy Town - Merge & Win💰,0
+True,Action,Everyone,85M,3.8730454,Hide 'N Seek!,0
+True,Strategy,Everyone,52M,4.4098206,Tower Craft 3D - Idle Block Building Game,0
+True,Educational,Everyone,46M,4.31144,Toca Life World: Build stories & create your world,0
+True,Educational,Everyone,69M,4.310474,Kpopsies - Hatch Your Unicorn Idol,0
+True,Puzzle,Everyone,79M,3.7301688,Parking Jam 3D,0
+True,Puzzle,Teen,42M,3.7314668,Clue Hunter,0
+True,Sports,Everyone,58M,4.4037266,Cornhole League,0
+True,Board,Everyone,45M,4.6074805,Happy Color™ – Color by Number,0
+True,Simulation,Everyone,125M,3.97521,Tie Dye,0
+True,Puzzle,Everyone 10+,77M,3.2289526,Pull Him Out,0
+False,Arcade,Everyone 10+,Varies with device,4.555995,Minecraft,6.99
+False,Strategy,Everyone,70M,4.778556,Bloons TD 6,4.99
+False,Board,Everyone,159M,4.307289,Monopoly - Board game classic about real-estate!,3.99
+False,Role Playing,Everyone 10+,79M,4.7585187,Stardew Valley,4.99
+False,Arcade,Everyone,85M,4.598624,Geometry Dash,1.99
+False,Adventure,Teen,160M,4.562438,Terraria,4.99
+False,Action,Mature 17+,15M,4.5668035,Grand Theft Auto: San Andreas,6.99
+False,Action,Teen,107M,4.6567335,Five Nights at Freddy's,2.99
+False,Board,Everyone,267M,4.3602304,"THE GAME OF LIFE 2 - More choices, more freedom!",3.99
+False,Sports,Everyone,95M,4.2426434,True Skate,1.99
+False,Action,Teen,151M,4.6051455,Ultimate Custom Night,2.99
+False,Action,Everyone,15M,4.503944,DraStic DS Emulator,4.99
+False,Puzzle,Everyone,Varies with device,4.805836,The Room,0.99
+False,Board,Everyone,16M,4.719165,Chess,1.99
+False,Puzzle,Everyone,40M,4.1862893,Human: Fall Flat,4.99
+False,Arcade,Everyone,Varies with device,4.655373,My Boy! - GBA Emulator,4.99
+False,Strategy,Teen,107M,4.5544286,Five Nights at Freddy's 2,2.99
+False,Action,Teen,56M,4.545319,Five Nights at Freddy's 4,2.99
+False,Role Playing,Everyone 10+,70M,4.480856,Evertale,0.99
+False,Action,Teen,3.6M,4.5187855,Five Nights at Freddy's: SL,2.99
+False,Board,Everyone,67M,4.1037345,The Game of Life,2.99
+False,Adventure,Mature 17+,42M,4.56,Danganronpa: Trigger Happy Havoc Anniversary Editi,15.99
+False,Action,Everyone 10+,Varies with device,2.9795918,Five Night's at Freddy's: HW,4.99
+False,Simulation,Everyone,606M,4.147908,Farming Simulator 20,6.49
+False,Strategy,Everyone,99M,4.587307,Bloons TD 5,2.99
+False,Simulation,Teen,149M,4.6386085,FNaF 6: Pizzeria Simulator,2.99
+False,Strategy,Everyone,23M,4.735931,Rusted Warfare - RTS Strategy,0.99
+False,Action,Teen,69M,3.6958547,Assassin's Creed Identity,1.99
+False,Strategy,Teen,46M,4.3431635,Bad North: Jotunn Edition,4.99
+False,Action,Teen,46M,4.043792,Call of Duty:Black Ops Zombies,6.99
+False,Puzzle,Everyone 10+,41M,3.7359781,Scribblenauts Remix,0.99
+False,Board,Everyone 10+,44M,4.3825,Clue,3.99
+False,Adventure,Teen,43M,4.519231,Danganronpa 2: Goodbye Despair Anniversary Edition,15.99
+False,Simulation,Everyone,47M,4.2415257,MudRunner,3.99
+False,Arcade,Everyone,11M,4.677955,ePSXe for Android,3.75
+False,Sports,Everyone,Varies with device,4.2211423,NBA 2K20,5.99
+False,Arcade,Everyone,1.1M,4.5298934,John GBA - GBA emulator,2.99
+False,Simulation,Everyone,Varies with device,4.353345,Mini Metro,0.99
+False,Action,Mature 17+,48M,4.3862915,Hitman Sniper,0.99
+False,Action,Teen,61M,4.4954014,Five Nights at Freddy's 3,2.99
+False,Arcade,Mature 17+,7.3M,4.264755,Grand Theft Auto: Vice City,4.99
+False,Strategy,Teen,60M,4.3040175,The Escapists 2: Pocket Breakout,1.99
+False,Puzzle,Everyone,28M,4.8859563,The Room Two,1.99
+False,Card,Teen,54M,4.564945,Cultist Simulator,6.99
+False,Adventure,Teen,31M,4.155481,Alien: Blackout,0.99
+False,Adventure,Everyone,185M,4.683717,TL Pro,0.99
+False,Puzzle,Everyone,31M,4.903226,The Room Three,3.99
+False,Simulation,Everyone,145M,3.7546318,Infinite Flight - Flight Simulator,0.99
+False,Card,Teen,75M,4.6058383,Reigns,0.99
+False,Card,Everyone 10+,46M,4.614662,Exploding Kittens® - Official,1.99
+True,Casual,Teen,Varies with device,4.366271,Coin Master,0
+True,Casual,Everyone,Varies with device,4.5786824,Candy Crush Saga,0
+True,Action,Mature 17+,46M,4.144232,Garena Free Fire: BOOYAH Day,0
+True,Adventure,Everyone,Varies with device,4.052258,Pokémon GO,0
+True,Strategy,Everyone 10+,149M,4.479449,Clash of Clans,0
+True,Casual,Everyone,141M,4.3605404,Gardenscapes,0
+True,Adventure,Teen,136M,4.4055614,Genshin Impact,0
+True,Board,Teen,Varies with device,4.508329,Bingo Blitz™️ - Bingo Games,0
+True,Role Playing,Teen,147M,4.2302814,RAID: Shadow Legends,0
+True,Casino,Teen,Varies with device,4.3596635,Slotomania™ Free Slots: Casino Slot Machine Games,0
+True,Strategy,Teen,141M,4.3934846,State of Survival: Survive the Zombie Apocalypse,0
+True,Action,Mature 17+,87M,4.4983635,Call of Duty®: Mobile,0
+True,Role Playing,Teen,101M,4.5978994,AFK Arena,0
+True,Role Playing,Teen,126M,4.314998,MARVEL Strike Force - Squad RPG,0
+True,Strategy,Everyone 10+,101M,4.3141437,Rise of Kingdoms: Lost Crusade,0
+True,Casual,Everyone,Varies with device,4.5545526,Candy Crush Soda Saga,0
+True,Casino,Teen,108M,4.528579,Jackpot Party Casino Games: Spin FREE Casino Slots,0
+True,Puzzle,Everyone,138M,4.5959096,Toon Blast,0
+True,Puzzle,Everyone 10+,99M,4.233441,Empires & Puzzles: Epic Match 3,0
+True,Puzzle,Everyone,129M,4.3356833,Fishdom,0
+True,Strategy,Everyone,150M,4.069117,Star Trek™ Fleet Command,0
+True,Casual,Everyone,147M,4.2670555,Township,0
+True,Casino,Teen,100M,4.6434464,Cash Frenzy™ Casino – Free Slots Games,0
+True,Strategy,Everyone 10+,777M,4.318979,King of Avalon: Dominion,0
+True,Puzzle,Everyone,138M,4.494845,Merge Dragons!,0
+True,Strategy,Teen,Varies with device,4.3214326,Last Shelter: Survival,0
+True,Strategy,Everyone 10+,78M,4.2960706,Lords Mobile: Kingdom Wars,0
+True,Puzzle,Teen,152M,4.5804214,Lily’s Garden,0
+True,Casino,Teen,142M,4.4240007,Cashman Casino: Vegas Slot Machines! 2M Free!,0
+True,Action,Teen,101M,4.2371073,Marvel Contest of Champions,0
+True,Action,Teen,Varies with device,4.1535974,PUBG MOBILE - NEW ERA,0
+True,Casino,Teen,94M,4.2340393,Huuuge Casino Slots - Best Slot Machines,0
+True,Action,Teen,Varies with device,4.5361495,DRAGON BALL Z DOKKAN BATTLE,0
+True,Role Playing,Teen,86M,4.292755,Summoners War,0
+True,Casino,Teen,Varies with device,4.335741,Vegas Slots - DoubleDown Casino,0
+True,Card,Everyone,91M,4.448855,Solitaire TriPeaks: Play Free Solitaire Card Games,0
+True,Puzzle,Everyone,158M,4.3179083,Matchington Mansion,0
+True,Casino,Teen,Varies with device,4.1530733,POP! Slots ™- Play Vegas Casino Slot Machines!,0
+True,Casino,Teen,Varies with device,4.5440984,House of Fun™️: Free Slots & Casino Slots Machines,0
+True,Simulation,Everyone,103M,4.2317734,Design Home: Play + Save,0
+True,Casino,Teen,97M,4.3860364,DoubleU Casino - Free Slots,0
+True,Strategy,Everyone 10+,99M,4.156511,Guns of Glory: Build an Epic Army for the Kingdom,0
+True,Puzzle,Everyone,141M,4.6103725,Toy Blast,0
+True,Casino,Teen,97M,4.601485,Lotsa Slots - Free Vegas Casino Slot Machines,0
+True,Strategy,Mature 17+,78M,3.7359056,Mafia City,0
+True,Role Playing,Teen,53M,4.306258,Epic Seven,0
+True,Role Playing,Everyone 10+,79M,4.1296396,Star Wars™: Galaxy of Heroes,0
+True,Strategy,Teen,Varies with device,4.3881555,Rise of Empires: Ice and Fire,0
+True,Business,Everyone,Varies with device,4.390185,Indeed Job Search,0
+True,Business,Everyone,Varies with device,4.6529016,"Adobe Scan: PDF Scanner with OCR, PDF Creator",0
+True,Business,Everyone,19M,4.678121,"Clear Scan: Free Document Scanner App,PDF Scanning",0
+True,Business,Everyone,11M,4.5972757,"Khata Book Udhar Bahi Khata, Credit Ledger Account",0
+True,Business,Everyone,13M,4.397763,Nova Poshta,0
+True,Business,Everyone,62M,4.186252,Cisco Webex Meetings,0
+True,Business,Everyone,11M,4.421177,"Meesho - Resell, Work From Home, Earn Money Online",0
+True,Business,Everyone,15M,4.0590663,AnyDesk Remote Control,0
+True,Business,Everyone,13M,4.538643,Jazz World - Manage Your Jazz Account,0
+True,Business,Everyone,Varies with device,4.554402,Scanner App To PDF - TapScanner,0
+True,Business,Everyone,Varies with device,4.3801756,"Vault - Hide Pics & Videos, App Lock, Free Backup",0
+True,Business,Everyone,Varies with device,3.6339555,"dhani: Healthcare, Finance, Free Rewards & More",0
+True,Business,Everyone,28M,4.6331797,GoToWebinar,0
+True,Business,Everyone,Varies with device,4.2105026,GoToMeeting – Video Conferencing & Online Meetings,0
+True,Business,Everyone,Varies with device,4.325742,e-Devlet Kapısı,0
+True,Business,Everyone,11M,3.1488156,Adobe Connect,0
+True,Business,Everyone,16M,4.205657,Beeline Uzbekistan,0
+True,Business,Everyone,Varies with device,4.225355,"PDF Reader - Sign, Scan, Edit & Share PDF Document",0
+True,Business,Everyone,21M,4.2869964,Document Manager,0
+True,Business,Everyone,18M,4.03556,Remote Desktop 8,0
+True,Business,Everyone,Varies with device,4.183132,Docs To Go™ Free Office Suite,0
+True,Business,Everyone,54M,4.569471,Bosch Toolbox - Digital Tools for Professionals,0
+True,Business,Everyone,22M,2.0690696,My JNE,0
+True,Business,Everyone,13M,3.6124032,Workforce Tools,0
+True,Business,Everyone,183M,4.4960957,iScanner - PDF Scanner App. Scan Documents to PDF,0
+True,Business,Everyone,7.1M,4.4759855,App Lock,0
+True,Business,Everyone,316M,4.88326,Notarize,0
+True,Business,Everyone,Varies with device,4.6874657,Microsoft Authenticator,0
+True,Business,Everyone,21M,4.251064,PDF creator & editor,0
+True,Business,Everyone,8.7M,4.1925883,FX File Explorer: the file manager with privacy,0
+True,Business,Everyone,22M,4.5282393,Cash Calculator Credit Debit Book ( Jama Udhar ),0
+True,Business,Everyone,Varies with device,4.297662,FortiClient VPN,0
+True,Business,Everyone,37M,4.4372373,"Marketing Video, Promo Video, Slideshow Maker",0
+True,Business,Everyone,Varies with device,4.3243117,File Commander - File Manager & Free Cloud,0
+True,Business,Everyone,12M,4.4944463,"Hide Pictures, Hide Photos & Videos, Gallery Vault",0
+True,Business,Everyone,Varies with device,4.5126524,"Camera Scanner, Scan Documents - Rapid Scanner",0
+True,Business,Everyone,29M,4.799066,Simple Scan - Free PDF Scanner App,0
+True,Business,Everyone,11M,4.5277367,Resume Builder & CV Maker - PDF Template Editor,0
+True,Business,Everyone,17M,4.564816,Fast Scanner : Free PDF Scan,0
+True,Business,Everyone,4.7M,4.55268,Concrete Calculator,0
+True,Business,Everyone,29M,3.48,Versum - efficient salon management,0
+True,Business,Everyone,11M,4.7578473,JetSign Signature App: Fill & Sign PDF Docs Now,0
+True,Business,Everyone,4.3M,3.57,Microsoft Finance and Operations (Dynamics 365),0
+True,Business,Everyone,35M,4.4228263,Termius - SSH/SFTP and Telnet client,0
+True,Business,Everyone,Varies with device,4.556867,TurboScan: scan documents & receipts in PDF,0
+True,Business,Everyone,4.9M,4.37,LoMag Barcode Scanner to Excel - free inventory QR,0
+True,Business,Everyone,22M,4.7207637,Genius Scan - PDF Scanner,0
+True,Business,Everyone,5.6M,4.725776,Metal Weight Calculator,0
+True,Business,Everyone,Varies with device,4.181613,Call Blocker Free - Blacklist and Whitelist,0
+True,Business,Everyone,19M,4.777116,Tiny Scanner - PDF Scanner App,0
+True,Business,Everyone,63M,3.9515972,V380,0
+True,Business,Everyone,Varies with device,4.182836,Salesforce Authenticator,0
+True,Business,Everyone,55M,3.85,Document Scanner SDK App,0
+True,Business,Everyone,3.2M,4.691964,Tank Volume,0
+True,Business,Everyone,28M,4.661654,Top Scanner - Free PDF Scanner App,0
+True,Business,Everyone,28M,4.4910293,Mini Scanner -Free PDF Scanner App,0
+True,Business,Everyone,7.8M,3.81,ADSelfService Plus,0
+True,Business,Everyone,17M,3.37,Epson TM Utility,0
+True,Business,Everyone,25M,2.9266055,amoCRM 2.0,0
+False,Business,Everyone,41M,4.507909,CamToPlan,9.99
+True,Business,Everyone,22M,4.4441214,Mobile Doc Scanner (MDScan) Lite,0
+True,Business,Everyone,5.0M,4.406844,Working Time Account,0
+True,Business,Everyone,Varies with device,3.9375,Check Point Capsule VPN,0
+False,Business,Everyone,7.4M,3.91,"TypIt Pro - Watermark, Logo & Text on Photos",0.99
+False,Business,Everyone,Varies with device,4.741836,TurboScan: scan documents and receipts in PDF,4.99
+False,Business,Everyone,Varies with device,4.3051357,FX File Explorer (Plus License Key),2.99
+False,Business,Everyone,31k,4.51606,PrinterShare Premium Key,8.99
+False,Business,Everyone,14M,4.1309013,DW Contacts & Phone & SMS,9.49
+False,Business,Everyone,17M,4.8166485,Tiny Scanner Pro: PDF Doc Scan,4.99
+False,Business,Everyone,2.5M,4.36,Office Documents Viewer (Pro),3.49
+False,Business,Everyone,Varies with device,4.109718,Jump Desktop (RDP & VNC),4.99
+False,Business,Everyone,21M,4.650985,Mobile Doc Scanner (MDScan) + OCR,0.99
+False,Business,Everyone,57M,4.0174656,OfficeSuite Pro + PDF,19.99
+False,Business,Everyone,2.0M,4.08,Professional Pack,6.99
+False,Business,Everyone,9.7M,4.33,JPEG Optimizer PRO with PDF support,1.99
+False,Business,Everyone,104k,4.05345,Aqua Mail Pro,19.99
+True,Business,Everyone,23M,4.7222223,TELUS Business Connect Meeting,0
+True,Business,Everyone,15M,3.9,Meeting Room Schedule,0
+True,Business,Everyone,6.9M,3.19,Saba Meeting,0
+True,Business,Everyone,12M,4.72549,IAEA Conferences and Meetings,0
+True,Business,Everyone,Varies with device,4.5405407,TeleOffice,0
+True,Business,Everyone,49M,4.182127,Free Conference Call,0
+True,Business,Everyone,24M,3.1584158,AnyMeeting Webinars,0
+True,Business,Everyone,17M,3.7521367,Zoho Meeting - Online Meeting & Webinar App,0
+True,Business,Everyone,32M,4.373134,MyTEC by The Executive Centre,0
+True,Business,Everyone,47M,3.745098,Start Meeting,0
+True,Business,Everyone,54M,3.8979592,Micepad,0
+True,Business,Everyone,21M,3.9294116,Pexip (My Meeting Video),0
+True,Business,Everyone,23M,4.1,Spontania Mobile,0
+True,Business,Everyone,44M,3.7333333,"BreakOut - Video Conference,Meeting,Seminar",0
+True,Business,Everyone,Varies with device,3.583815,join.me - Simple Meetings,0
+True,Business,Everyone,105M,3.018868,iBabs,0
+True,Business,Everyone,36M,3.7690477,ezTalks Free Cloud Meeting,0
+True,Business,Everyone,49M,3.3908045,ClickMeeting Webinar App,0
+True,Business,Everyone,42M,4.402824,BlueJeans Video Conferencing,0
+True,Business,Everyone,27M,4.4684687,Knox Meeting 녹스 미팅,0
+True,Business,Everyone,Varies with device,4.324324,Diligent Boards,0
+True,Business,Everyone,54M,3.8235295,Blizz by TeamViewer,0
+True,Business,Everyone,Varies with device,3.84,Yellenge,0
+True,Business,Everyone,50M,3.6818182,Calling（コーリング）｜Web会議システム,0
+True,Business,Everyone,84M,4.439867,ROP - Royal Oman Police,0
+True,Business,Everyone,27M,4.81788,Job Search by ZipRecruiter,0
+True,Business,Everyone,35M,4.4825397,Steady - Find Work. Earn Money,0
+True,Business,Everyone,31M,3.2771847,Umniah,0
+True,Business,Everyone,44M,3.6668615,My MobiFone,0
+True,Business,Everyone,22M,4.524553,robota.ua - work in Ukraine (for jobseekers),0
+True,Business,Everyone,75M,4.2062316,myTNB,0
+True,Business,Everyone,7.8M,4.560019,Resume Builder App Free CV maker CV templates 2020,0
+True,Business,Everyone,14M,4.081131,Bdjobs,0
+True,Business,Everyone,Varies with device,4.481928,Snagajob - Jobs Hiring Now,0
+True,Business,Everyone,58M,4.2970524,Kuwait Mobile ID هويتي,0
+True,Business,Everyone,33M,4.5396543,Logo Maker - Free Graphic Design & Logo Templates,0
+True,Business,Everyone,9.8M,4.5115576,"PagarBook Staff Attendance, Work & Pay Management",0
+True,Business,Everyone,Varies with device,3.998568,AndrOpen Office,0
+True,Business,Everyone,8.3M,4.5358167,"Digi Khata - Udhar Khata Book, Ledger Account Book",0
+True,Business,Everyone,14M,4.828789,Jersey Mike's,0
+True,Business,Everyone,7.1M,4.1660156,Free Language Translator App - Voice Translate Pro,0
+True,Business,Everyone,4.0M,4.6875496,USPS MOBILE®,0
+True,Business,Everyone,22M,2.9453375,Zoom Rooms,0
+True,Business,Everyone,7.8M,3.7537618,Shine Job Search,0
+True,Business,Everyone,1.9M,4.0903335,PrinterShare Mobile Print,0
+True,Business,Everyone,5.3M,4.3061566,RCM Business Official App,0
+True,Business,Everyone,41M,4.017526,CamToPlan - AR measurement / tape measure,0
+True,Business,Everyone,23M,3.5849056,Remote Desktop,0
+True,Business,Everyone,8.1M,4.248593,Vestige,0
+True,Business,Everyone,11M,4.305638,Document Manager and File Viewer,0
+True,Business,Everyone,27M,3.626401,Air Selangor,0
+True,Business,Everyone,32M,3.5504808,OTP Smart,0
+True,Business,Everyone,21M,4.6699038,"IndiaMART: Search Products, Buy, Sell & Trade",0
+True,Business,Everyone,Varies with device,4.039805,UPS Mobile,0
+True,Business,Everyone,14M,4.4118304,Monster Job Search,0
+True,Business,Everyone,29M,3.0610561,Me@Walmart,0
+True,Business,Everyone,22M,3.9298759,LINE Official Account,0
+True,Business,Everyone,2.3M,4.3090277,No.1 गाय भैंस wala पशुमेला - Animall app,0
+True,Business,Everyone,33M,4.486539,Upwork for Freelancers,0
+True,Business,Teen,44M,4.529505,حراج,0
+True,Business,Everyone,22M,4.454982,"Glassdoor - Job search, company reviews & salaries",0
+True,Business,Everyone,38M,3.9073064,HDFC ERGO Insurance App,0
+True,Business,Everyone,9.3M,3.5912597,Informed Delivery®,0
+True,Business,Everyone,Varies with device,4.422944,Naukri.com Job Search App: Search jobs on the go!,0
+True,Business,Everyone,57M,4.163573,"OfficeSuite - Office, PDF, Word, Excel, PowerPoint",0
+True,Education,Everyone,Varies with device,1.8615597,Google Classroom,0
+True,Education,Everyone,11M,4.552453,Socratic by Google,0
+True,Education,Everyone,87M,4.430148,BYJU'S – The Learning App,0
+True,Education,Everyone,Varies with device,4.2198315,"Vedantu: LIVE Learning App | Class 1-12, JEE, NEET",0
+True,Education,Everyone 10+,16M,4.499226,PlantNet Plant Identification,0
+True,Education,Everyone,Varies with device,4.184561,Unacademy Learning App,0
+True,Education,Everyone,35M,4.725106,Quizizz: Play to learn,0
+True,Education,Everyone,72M,3.7577055,Edmodo,0
+True,Education,Everyone,17M,3.2060738,Moodle,0
+True,Education,Everyone,105M,4.5561886,Qanda: Free Math Solutions,0
+True,Education,Everyone,30M,4.586668,Mathway,0
+True,Education,Everyone,24M,4.657966,Kahoot! Play & Create Quizzes,0
+True,Education,Teen,20M,2.491243,MEB E-OKUL VBS,0
+True,Education,Everyone,Varies with device,4.097786,Seesaw Class,0
+True,Education,Everyone,5.5M,4.1445518,حلول المناهج الدراسية,0
+True,Education,Everyone,6.1M,3.2440274,PRONOTE,0
+True,Education,Everyone,Varies with device,3.7239382,Baby Bella Crazy Holiday,0
+True,Education,Everyone,Varies with device,,Read Along by Google: A fun reading app,0
+True,Education,Everyone,35M,4.0947604,Toca Hair Salon 4,0
+True,Education,Everyone,Varies with device,4.2808175,"wifistudy - #1 Exam Preparation, Free Mock Tests",0
+True,Education,Everyone,65M,4.1067414,Educational Puzzles for Kids (Preschool),0
+True,Education,Everyone,44M,3.7275732,Miga Town: My Apartment,0
+True,Education,Everyone,39M,3.4116051,Miga Town: My Hospital,0
+True,Education,Everyone,24M,4.3537235,Robi 10 Minute School,0
+True,Education,Everyone,Varies with device,4.3612337,Kindergarten Kids Learning App : Educational Games,0
+True,Education,Everyone,9.2M,3.8285322,Learn and Write the Arabic Alphabet,0
+True,Education,Everyone,41M,3.3873057,Miga Town: My School,0
+True,Education,Everyone,16M,2.7806919,PowerSchool Mobile,0
+True,Education,Everyone,32M,3.1773384,Dnevnik.ru,0
+True,Education,Everyone,44M,3.7977078,Miga Town: My TV Shows,0
+True,Education,Everyone,Varies with device,4.3505254,PBS KIDS Video,0
+True,Education,Everyone,Varies with device,4.49702,Star Tracker - Mobile Sky Map & Stargazing guide,0
+True,Education,Everyone,118M,4.3731265,Canvas Student,0
+True,Education,Everyone,10M,2.6160164,BilimLand,0
+True,Education,Everyone,51M,4.3741755,SkyView® Lite,0
+True,Education,Everyone,24M,4.790179,Free scientific calculator plus advanced 991 calc,0
+True,Education,Everyone,18M,4.379391,English Urdu Dictionary Offline - Translator,0
+True,Education,Everyone,Varies with device,4.3881245,Khan Academy,0
+True,Education,Everyone,22M,4.3427205,Coursera: Online courses,0
+True,Education,Everyone,16M,4.8524275,"Utkarsh : Live Classes, Quiz & Test, Smart e-books",0
+True,Education,Everyone,Varies with device,4.6090274,"Star Walk 2 Free - Sky Map, Stars & Constellations",0
+True,Education,Everyone,Varies with device,3.4537694,Noggin Preschool Learning Games & Videos for Kids,0
+True,Education,Everyone,8.3M,4.8116217,لرنیت | آموزش زبان انگلیسی,0
+True,Education,Everyone,35M,4.363207,Udemy - Online Courses,0
+True,Education,Everyone,80M,2.3158052,Schoology,0
+True,Education,Everyone,13M,4.5597377,"Exam Prep : Free Videos, Live Classes & Mock Tests",0
+True,Education,Everyone,71M,4.118164,ClassDojo,0
+True,Education,Everyone,2.9M,4.4350915,French - English Translator,0
+True,Education,Everyone,76M,3.763199,Blackboard,0
+True,Education,Everyone,Varies with device,4.1244283,Classting - Class Communication,0
+True,Education,Everyone,Varies with device,2.8169014,Flipgrid,0
+True,Education,Everyone,10M,3.7923076,منصة مدارس الاردن skoolz JO درسك موبايل,0
+True,Education,Everyone,24M,3.7470818,Classera,0
+True,Education,Everyone,9.2M,4.1262136,تعليم الحروف العربية و الحروف الانجليزية للاطفال,0
+True,Education,Everyone,31M,1.9477352,Wilma,0
+True,Education,Everyone,11M,4.1595507,Learn Arabic Alphabet For Kids,0
+True,Education,Everyone,Varies with device,4.168566,Google Arts & Culture,0
+True,Education,Everyone,Varies with device,4.5959597,Microsoft Math Solver,0
+True,Education,Everyone,15M,4.224111,Translate On Screen,0
+True,Education,Everyone,Varies with device,4.482933,Heavens-Above,0
+False,Education,Everyone,27M,4.428571,English for all! Pro,0.99
+False,Education,Everyone,Varies with device,4.7825685,Driving Theory Test 4 in 1 Kit + Hazard Perception,5.49
+False,Education,Everyone,3.7M,4.46,Lecture Notes - Classroom Notes Made Simple,2.99
+False,Education,Everyone,71M,4.7391305,PhET Simulations,0.99
+False,Education,Everyone,79M,4.3546324,Official DVSA Theory Test Kit,5.49
+False,Education,Everyone,1.5M,4.4848485,English Tenses Big Table,0.99
+False,Education,Teen,Varies with device,4.564815,Learn Brazilian Portuguese,4.99
+False,Education,Everyone,1.1M,4.37931,RIDBC Auslan Tutor,15.68
+False,Education,Teen,Varies with device,4.276995,Learn German with MosaLingua,4.99
+False,Education,Everyone,Varies with device,4.5106726,Star Walk 2 - Night Sky View and Stargazing Guide,2.99
+True,Education,Everyone,6.7M,2.9514563,eduNET.BH,0
+True,Education,Everyone,16M,3.42,Plagiarism Checker,0
+True,Education,Everyone,9.4M,4.2277226,My Classes - Timetable and Study Planner,0
+True,Education,Everyone,21M,4.3011365,d6 Connect,0
+True,Education,Everyone,31M,4.4915257,TARGET with Alok,0
+True,Education,Everyone,Varies with device,4.2867923,العربية الابتدائية حروف ارقام الوان حيوانات كلمات,0
+True,Education,Everyone,50M,4.159533,Sampark Baithak,0
+True,Education,Everyone,36M,4.064801,Brightspace Pulse,0
+True,Education,Everyone,31M,3.9166667,Wings Ek Udaan,0
+True,Education,Everyone,12M,4.680925,DigiSkills LMS,0
+True,Education,Everyone,11M,3.167131,Campus Student,0
+True,Education,Everyone,30M,4.42,JK EXAM CRACKER,0
+True,Education,Everyone,17M,4.8884463,Revision LIVE,0
+True,Education,Everyone,29M,4.29,Power Planner: Homework/Grades,0
+True,Education,Everyone,53M,4.2222223,myViewBoard - Your Digital Whiteboard in the Cloud,0
+True,Education,Everyone,86M,4.6272187,Canvas Teacher,0
+True,Education,Everyone,31M,4.626984,VJ Education by Dr Vandana Jadon,0
+True,Education,Everyone,31M,4.2413793,My Class By Career Success,0
+True,Education,Everyone,16M,4.3903847,LiveBoard Interactive Whiteboard App,0
+True,Education,Everyone,123M,3.9946237,Wise - Live Online Teaching and Coaching App,0
+True,Education,Everyone,15M,4.04,Midlands State University - Students App,0
+True,Education,Everyone,8.3M,4.390741,PunjabEducare,0
+True,Education,Everyone,104M,2.4070797,Voki For Education,0
+True,Education,Everyone,24M,3.9624505,Teacher's Gradebook - Additio,0
+True,Education,Everyone,13M,2.97,Tapestry Mobile,0
+True,Education,Everyone,22M,4.521739,گاما، نمونه سوال، فایل آموزشی و آزمون آنلاین مدارس,0
+True,Education,Everyone,34M,2.529295,Күнделік.Мектеп,0
+True,Education,Everyone,18M,3.2631578,Open LMS,0
+True,Education,Everyone,11M,4.557764,ZipGrade,0
+True,Education,Everyone,84M,3.5197973,Next Learning Platform,0
+True,Education,Everyone,12M,4.1313133,Plickers,0
+True,Education,Everyone,Varies with device,1.9257426,Cengage Mobile,0
+True,Education,Everyone,Varies with device,3.1627908,Nearpod,0
+True,Education,Everyone,32M,4.3366337,آلفا,0
+True,Education,Everyone,9.8M,4.144132,mShikshaMitra - m-Governance Platform - Education,0
+True,Medical,Everyone,Varies with device,4.7584743,GoodRx: Prescription Drugs Discounts & Coupons App,0
+True,Medical,Everyone,9.9M,3.8440366,CO Exposure Notifications,0
+True,Medical,Everyone,7.6M,4.508507,RxSaver – Prescription Drug Discounts & Coupons,0
+True,Medical,Everyone,23M,4.62122,Teladoc,0
+True,Medical,Everyone,111M,4.594095,FollowMyHealth®,0
+True,Medical,Everyone,106M,3.9514563,COVID Alert PA,0
+True,Medical,Everyone,34M,3.3663366,LabCorp | Patient,0
+True,Medical,Everyone,5.3M,4.5376883,SingleCare: Prescription Drug Coupons & Discounts,0
+True,Medical,Everyone,19M,4.4356437,Rx Discount App - America’s Pharmacy,0
+True,Medical,Mature 17+,36M,4.694237,Weedmaps Find Marijuana Cannabis Weed Reviews CBD,0
+True,Medical,Teen,50M,4.5213904,"Sanvello for Anxiety, Depression & Stress",0
+True,Medical,Everyone,16M,3.6294963,MyQuest for Patients,0
+True,Medical,Everyone,30M,3.9341564,BioLife Plasma Services,0
+True,Medical,Everyone,54M,4.0143113,Aetna Health,0
+True,Medical,Everyone,21M,4.3900414,Telehealth by SimplePractice,0
+True,Medical,Everyone,34M,4.3366337,CSL Plasma,0
+True,Medical,Everyone,168M,2.9553072,Sydney Health,0
+True,Medical,Everyone,45M,3.9705882,myAir™ for Air10™ by ResMed,0
+True,Medical,Everyone,67M,3.7920792,My Health+ by Intermountain,0
+True,Medical,Everyone,7.1M,3.9107726,Body Temperature Fever : Thermometer Records Diary,0
+True,Medical,Everyone,19M,1.2777778,WorkCare WorkMatters,0
+True,Medical,Everyone,44M,3.940594,Solv: Convenient healthcare,0
+True,Medical,Everyone,20M,3.904282,Blood Donor,0
+True,Medical,Everyone,2.3M,3.25,GuideSafe,0
+True,Medical,Everyone,67M,4.8638062,Doctor On Demand,0
+True,Medical,Mature 17+,19M,4.2964816,Leafly: Find your cannabis and CBD,0
+True,Medical,Everyone,41M,4.1307836,OneTouch Reveal® mobile app for Diabetes,0
+True,Medical,Everyone,28M,4.903893,My Calendar - Period Tracker,0
+True,Medical,Everyone,3.5M,4.326087,HearMax Super Hearing Aid Amplifier,0
+True,Medical,Everyone,48M,2.5888157,myPhonak,0
+True,Medical,Everyone,21M,4.7934747,Ovia Pregnancy Tracker: Baby Due Date Countdown,0
+True,Medical,Everyone,47M,4.7557473,MDLIVE: Talk to a Doctor 24/7,0
+True,Medical,Everyone,485M,3.8161926,Kardia,0
+True,Medical,Everyone,129M,4.443662,LiveWell with Advocate Aurora,0
+True,Medical,Everyone,26M,2.1385043,Dexcom G6,0
+True,Medical,Everyone,17M,3.304762,HealtheLife,0
+True,Medical,Everyone,Varies with device,3.9635136,Mayo Clinic,0
+True,Medical,Everyone,70M,4.3534136,MyUPMC,0
+True,Medical,Everyone,20M,3.4950495,BCBSM,0
+True,Medical,Everyone,24M,4.631472,Ovia Fertility: Ovulation & Cycle Tracker,0
+True,Medical,Everyone,25M,3.0520833,FreeStyle LibreLink - US,0
+True,Medical,Everyone,2.8M,3.53,MEDITECH MHealth,0
+True,Medical,Everyone,Varies with device,2.0914285,Delta Dental,0
+True,Medical,Everyone,59M,3.84,VSee Clinic for Patient,0
+True,Medical,Everyone,63M,4.6,mySugr - Diabetes App & Blood Sugar Tracker,0
+True,Medical,Everyone,9.3M,4.035714,Optum Perks,0
+True,Medical,Everyone,14M,4.6415553,PulsePoint Respond,0
+True,Medical,Teen,86M,4.1115313,K Health | Telehealth & Primary Care,0
+True,Medical,Everyone,29M,4.0513015,ClearCareGo Caregiver,0
+True,Medical,Everyone,Varies with device,4.29073,epocrates,0
+True,Medical,Everyone,30M,4.798479,Sanford Guide:Antimicrobial Rx,0
+True,Medical,Everyone,8.8M,4.35,Davis's Drug Guide for Nurses,0
+False,Medical,Everyone,31M,0.0,"Ocular Motility Disorders, 4",185.99
+True,Medical,Everyone,18M,4.619059,Migraine Buddy - The Migraine and Headache Tracker,0
+True,Medical,Everyone,7.1M,4.18,Davis's Drug Guide,0
+False,Medical,Everyone,28M,2.6,ASCCP Management Guidelines,9.99
+False,Medical,Everyone,45M,4.81,Vargo Anesthesia Mega App,89.99
+True,Medical,Everyone 10+,8.0M,4.3,Tarascon Pharmacopoeia,0
+False,Medical,Everyone,35M,4.651748,Human Anatomy Atlas 2021: Complete 3D Human Body,24.99
+True,Medical,Everyone,15M,4.578829,EMT Pocket Prep,0
+True,Medical,Everyone,26M,3.5049505,FP Notebook,0
+True,Medical,Everyone,44M,4.5731044,MindDoc: Mood Tracker for Depression & Anxiety,0
+False,Medical,Everyone,95M,0.0,"Hurst's The Heart, 14th Edition",124.99
+True,Medical,Everyone,6.3M,4.72,Nursing Central,0
+True,Medical,Everyone,62M,4.2619047,Complete Anatomy ‘21 - 3D Human Body Atlas,0
+True,Medical,Everyone,344k,3.83,"Curable: Back Pain, Migraine & Chronic Pain Relief",0
+True,Medical,Everyone,37M,3.0270271,EMRA Antibiotic Guide,0
+True,Medical,Everyone,6.9M,4.4,Johns Hopkins Guides ABX...,0
+False,Medical,Everyone,34M,0.0,"Graber & Wilbur's Family Medicine Board Review, 5E",79.99
+True,Medical,Everyone,Varies with device,4.4335976,Diabetes:M - Management & Blood Sugar Tracker App,0
+True,Medical,Mature 17+,16M,4.23,HiGrade: THC Testing & Cannabis Growing Assistant,0
+True,Medical,Everyone,25M,4.391892,Petralex Hearing Aid App,0
+True,Medical,Everyone,12M,4.481884,Official NBSTSA CST Exam Prep,0
+True,Medical,Everyone,42M,2.5642858,GlassesOff,0
+False,Medical,Everyone,30M,4.84,Language Therapy: Aphasia,74.99
+True,Medical,Everyone,88M,3.2857144,Your Doctors - 24/7 Online Doctors Chat,0
+True,Medical,Everyone,13M,4.25,Paramedic Pocket Prep,0
+True,Medical,Everyone,8.8M,4.6930695,Saunders Comprehensive Review for NCLEX RN,0
+False,Medical,Everyone,4.1M,0.0,Educating Physicians: A Reform,44.39
+True,Medical,Everyone,12M,4.521739,NCE Pocket Prep,0
+True,Medical,Everyone,114M,3.98,Full Code - Emergency Medicine Simulation,0
+True,Medical,Everyone,98M,4.336346,Anatomy Learning - 3D Anatomy Atlas,0
+False,Medical,Everyone 10+,46M,4.53,Paramedic Protocol Provider,10.0
+False,Medical,Everyone,56M,4.7272725,Critical - Medical Guide,14.99
+False,Medical,Everyone,69M,4.0,EMT PASS- NEW,29.99
+True,Medical,Everyone,33M,4.2977943,HESI A2 Pocket Prep,0
+True,Medical,Everyone,59M,4.0034533,Glucose Buddy Diabetes Tracker,0
+True,Medical,Everyone,20M,3.096774,Fall Alert – My Medic Watch,0
+False,Medical,Everyone,6.4M,0.0,Valvular Heart Disease,49.19
+True,Medical,Everyone,7.9M,4.59,"NURSING.com | NCLEX, Nursing School",0
+False,Medical,Everyone,Varies with device,4.5555553,Apraxia Therapy: Aphasia,24.99
+False,Medical,Everyone,105M,0.0,"Anesthesiology, Third Edition",124.99
+True,Medical,Everyone,34M,3.7398374,Nurse's Drug Handbook,0
+True,Medical,Everyone,28M,3.25,Lippincott Nursing Advisor,0
+False,Medical,Everyone,89M,4.55,Diabetes & Diet Tracker,9.99
+True,Medical,Everyone,12M,3.5609756,NAVICA,0
+True,Medical,Everyone,3.7M,4.338028,Body Temperature Thermometer: Fever Diary Records,0
+True,Medical,Everyone,21M,4.744984,Prognosis : Your Diagnosis,0
+True,Medical,Everyone,12M,0.0,Sunset Hill Vet,0
+True,Medical,Everyone,8.1M,3.8440366,Blood Pressure Tracker | BP Checker | BP Logger 20,0
+True,Medical,Everyone,8.2M,0.0,IJCAHPO,0
+True,Medical,Everyone,25M,3.359,TraceTogether,0
+True,Medical,Everyone,28M,3.8269231,Safely - The Safer Sex App,0
+True,Medical,Everyone,47M,4.0416665,PM Pediatrics Anywhere,0
+True,Medical,Everyone,34M,0.0,MiniMed™ Mobile US,0
+True,Medical,Everyone,59M,0.0,CareLink™ Connect US,0
+True,Medical,Everyone,Varies with device,4.481132,Pill Reminder & Medication Tracker - TakeYourPills,0
+True,Medical,Everyone,62M,3.46875,Telmediq,0
+True,Medical,Everyone,15M,0.0,Cross Country Marketplace,0
+True,Medical,Everyone,38M,1.9019607,Humana Military,0
+True,Medical,Everyone,13M,3.642857,HealthChoice,0
+True,Medical,Everyone,5.5M,1.4653466,LabCorp|Link for Providers,0
+True,Medical,Everyone,31M,0.0,REMS Companion App,0
+True,Medical,Everyone,19M,1.8780488,CheckIn2Work,0
+True,Medical,Everyone,6.5M,4.1,Joint Academy - Treat joint pain from home,0
+True,Medical,Everyone,36M,2.9682539,Axxess HomeCare,0
+True,Medical,Everyone,2.1M,4.48,Blood Pressure Tracker : BP Checker Log : BP Info,0
+True,Medical,Everyone,55M,5.0,Rxhub,0
+True,Medical,Everyone,94M,3.59,Aby,0
+True,Medical,Everyone,Varies with device,3.6744187,Savonix Mobile,0
+True,Medical,Everyone,12M,0.0,CommunityAnimalHospital,0
+True,Medical,Everyone,17M,5.0,Blood Pressure Tracker - BP Checker - BP Logger,0
+True,Medical,Everyone,Varies with device,3.2970297,Oscar Health,0
+True,Medical,Everyone,4.9M,4.75,"Neurodiem, neuroscience daily",0
+True,Medical,Everyone,14M,2.0689654,Pulse Oximeter,0
+True,Medical,Everyone,44M,4.020558,OptumRx,0
+True,Medical,Everyone,5.0M,4.09,Super Hearing Sound Magnifier,0
+True,Medical,Everyone,39M,4.2901235,Lemonaid Health app: telehealth care & rx meds,0
+True,Medical,Everyone,115M,4.40367,Ornament: keep lab tests in order & monitor health,0
+True,Medical,Everyone,18M,4.09,Liingo Rx Reader,0
+True,Medical,Everyone,3.6M,4.8431373,Body Temperature Thermometer :  Fever Log Records,0
+True,Medical,Everyone,12M,4.612903,Thermometer For Fever : Body Temperature Checker,0
+True,Medical,Everyone 10+,99M,4.8137255,"Babylon - Healthcheck, video appointments & more",0
+False,Medical,Everyone,8.2M,4.58,SnoreGym : Reduce Your Snoring,2.99
+False,Medical,Everyone,Varies with device,2.31,VeinSeek,3.99
+False,Medical,Everyone,3.1M,4.6039605,Pedi STAT,5.49
+False,Medical,Everyone,68M,4.3,Freya • Surge Timer,3.99
+False,Medical,Everyone,7.0M,4.5641026,ASRA Coags,3.99
+False,Medical,Everyone,34M,4.6513157,Muscle Trigger Point Anatomy,2.99
+False,Medical,Everyone,8.6M,4.587209,Medical ID - In Case of Emergency (ICE),5.99
+False,Medical,Everyone,9.9M,3.27,Calcium Pro,2.99
+False,Medical,Everyone,3.3M,2.9545455,HearMax (Pro): Super Hearing Aid & Sound Amplifier,4.99
+False,Medical,Everyone,24M,2.99,IBM Micromedex Drug Info,2.99
+False,Medical,Everyone,2.1M,4.0,ACLS Rhythm Quiz,0.99
+False,Medical,Everyone,Varies with device,4.49,Journal Club: Medicine,6.99
+False,Medical,Everyone,460k,3.8823528,OptoDrum,5.99
+False,Medical,Everyone,14M,0.0,Maryland EMS Protocols 2020,2.99
+False,Medical,Everyone,20M,2.260274,InfantRisk Center HCP,9.99
+False,Medical,Everyone,1.2M,4.90625,The Clinical Problem Solvers,9.99
+False,Medical,Everyone,127M,0.0,AnatomyMapp,14.99
+False,Medical,Everyone,3.5M,4.32,"Cardiac diagnosis (heart rate, arrhythmia)",12.99
+False,Medical,Everyone,Varies with device,4.4977374,Visual Anatomy,2.49
+False,Medical,Everyone,2.7M,4.11,EMT Review Plus,11.99
+False,Medical,Everyone,576k,4.26,Paramedic Meds,1.99
+False,Medical,Everyone,69M,4.3846154,Vetcalculators,11.99
+False,Medical,Teen,39M,4.64,Cannabis Strain Guide,1.99
+False,Medical,Everyone,95M,3.1363637,Recognise Foot,7.49
+False,Medical,Everyone,14M,3.8947368,AEMT Review,11.99
+False,Medical,Everyone,25M,4.03,"Muscle Premium - Human Anatomy, Kinesiology, Bones",24.99
+False,Medical,Everyone,52M,3.0,Recognise Knee,7.49
+False,Medical,Everyone,3.8M,2.0,CPAN® / CAPA® Study App II,9.99
+False,Medical,Everyone,3.0M,4.7,Vet Calculator Plus,3.99
+False,Medical,Everyone,2.8M,4.41,Lab Values + Medical Reference,2.99
+False,Medical,Everyone,8.4M,4.5,EMT Tutor  NREMT-B Study Guide,3.99
+False,Medical,Everyone,1.9M,3.53,Critical Care ACLS Guide,7.99
+False,Medical,Everyone,3.6M,4.0,Code Blue Pro,4.99
+False,Medical,Everyone,121M,4.7586207,AnSo Anaesthesia Sonoanatomy,8.49
+False,Medical,Everyone,64M,2.969697,FODMAP Friendly,1.99
+False,Medical,Everyone,24M,4.51,Anatomy & Physiology,34.99
+False,Medical,Everyone,7.8M,3.559322,DAF Professional,2.99
+False,Medical,Everyone,4.2M,3.235294,Dexteria Fine Motor/Rehab Aid,4.99
+False,Medical,Everyone,46M,4.78,Acupuncture Assistant,5.49
+False,Medical,Everyone,862k,4.3255816,EMT Study - NREMT Test Prep,3.99
+False,Medical,Everyone,7.3M,3.935484,Voice Analyst,9.99
+True,Music & Audio,Everyone,17M,4.3949842,Pleng,0
+True,Music & Audio,Teen,40M,4.5307593,"SoundCloud - Play Music, Audio & New Songs",0
+True,Music & Audio,Teen,Varies with device,3.6200073,Google Play Music,0
+True,Music & Audio,Teen,26M,4.3338566,Gaana Song Hotshots Video Music Free Hindi MP3 App,0
+True,Music & Audio,Everyone,9.9M,4.88355,Music Player - MP3 Player,0
+True,Music & Audio,Teen,113M,4.2293215,Radio Javan,0
+True,Music & Audio,Teen,25M,4.635058,Audiomack: Download New Music Offline Free,0
+True,Music & Audio,Mature 17+,13M,4.695226,Volume Booster PRO - Sound Booster for Android,0
+True,Music & Audio,Everyone,60M,4.3150926,ORG 2021,0
+True,Music & Audio,Everyone,24M,4.386181,Samsung Music,0
+True,Music & Audio,Everyone,9.9M,4.573399,Music player,0
+True,Music & Audio,Teen,11M,4.06178,Free Music Downloader Download MP3. YouTube Player,0
+True,Music & Audio,Teen,Varies with device,4.548059,"SiriusXM: Music, Radio, News & Entertainment",0
+True,Music & Audio,Mature 17+,10M,4.431236,Top video downloader,0
+True,Music & Audio,Teen,22M,4.63005,Radio FM,0
+True,Music & Audio,Teen,7.7M,4.657029,Free Music Download + Mp3 Music Downloader,0
+True,Music & Audio,Everyone,50M,4.502413,Blackpink Song,0
+True,Music & Audio,Everyone,10M,4.805857,Music player,0
+True,Music & Audio,Everyone,Varies with device,4.5741096,Music Player,0
+True,Music & Audio,Everyone,17M,4.667192,Music downloader - Music player,0
+True,Music & Audio,Teen,Varies with device,4.2276964,Palco MP3,0
+True,Music & Audio,Everyone,16M,4.487808,Default Music Player,0
+True,Music & Audio,Teen,Varies with device,4.4459443,Amazon Music: Stream and Discover Songs & Podcasts,0
+True,Music & Audio,Everyone,117M,4.5638413,100 اغاني عراقية بدون نت 2020,0
+True,Music & Audio,Everyone,6.0M,4.4986324,Music Player - MP3 Player & 10 Bands Equalizer,0
+True,Music & Audio,Teen,Varies with device,3.715814,Apple Music,0
+True,Music & Audio,Teen,8.6M,4.5825076,Mp3 Download - Free Music Downloader,0
+True,Music & Audio,Everyone,12M,4.653248,"Dub Music Player - Free Audio Player, Equalizer 🎧",0
+True,Music & Audio,Everyone,14M,4.8749075,"Music Player - MP3 Player, Audio Player",0
+True,Music & Audio,Teen,11M,3.9758928,"Download music, Free Music Player, MP3 Downloader",0
+True,Music & Audio,Teen,64M,3.9858198,BBC Sounds: Radio & Podcasts,0
+True,Music & Audio,Mature 17+,25M,4.0483756,Download Mp3 Music,0
+True,Music & Audio,Teen,12M,4.4628153,Free Music：offline mp3 No WiFi Music Download Free,0
+True,Music & Audio,Everyone,Varies with device,4.414409,Poweramp Music Player (Trial),0
+True,Music & Audio,Everyone,26M,4.3250065,fizy – Music & Video,0
+True,Music & Audio,Everyone,Varies with device,4.5065975,MP3 Player,0
+True,Music & Audio,Everyone,7.9M,4.467742,Music Player VK Coffee,0
+True,Music & Audio,Teen,Varies with device,4.4116488,Shazam: Discover songs & lyrics in seconds,0
+True,Music & Audio,Everyone,19M,4.3492503,jetAudio HD Music Player,0
+True,Music & Audio,Everyone,6.0M,4.5444207,AIMP,0
+True,Music & Audio,Teen,25M,4.403226,Tuner Radio - Mp3 player,0
+True,Music & Audio,Everyone,14M,4.863066,Music Player,0
+True,Music & Audio,Teen,Varies with device,4.7277923,"Pi Music Player - Free Music Player, YouTube Music",0
+True,Music & Audio,Everyone,4.8M,4.523564,Music Player - Audio Player,0
+True,Music & Audio,Teen,Varies with device,4.153866,NhacCuaTui,0
+True,Music & Audio,Everyone,33M,4.5526314,گلچین آهنگ های قدیمی حمیرا بدون نیاز به اینترنت,0
+True,Music & Audio,Teen,3.4M,3.3404255,Pandora Music for TV,0
+True,Music & Audio,Teen,118M,4.794199,BTS Songs Offline Kpop + Lyrics,0
+True,Music & Audio,Everyone,Varies with device,4.673153,MrTehran - Persian Music,0
+True,Music & Audio,Everyone,4.9M,4.5272026,Music Player - Mp3 Player,0
+True,Music & Audio,Everyone,2.0M,3.889535,"हरियाणवी गाने, Free Haryanvi Songs MP3 App",0
+True,Music & Audio,Teen,Varies with device,4.7401195,"Download Now)Free Music Player, Radio, Podcast App",0
+True,Music & Audio,Teen,67M,4.649289,جورج وسوف 2020 بدون نت,0
+True,Music & Audio,Everyone,51M,4.65,BTS DYNAMITE Most Popular Songs - Full Album,0
+True,Music & Audio,Teen,15M,4.694805,Ahang: Play Music and Discover new songs,0
+True,Music & Audio,Everyone,15M,4.5185184,Bajao: Best Audio Video Music App and Music Player,0
+True,Music & Audio,Teen,3.8M,4.5026917,Free Music,0
+True,Music & Audio,Teen,14M,4.5599947,Free Music - Listen Songs & Music (download free),0
+True,Music & Audio,Everyone,102M,4.3811474,اجمل الاغاني العربية بدون نت مع وضعها كرنة للهاتف,0
+True,Music & Audio,Teen,Varies with device,4.22797,"TIDAL Music - Hifi Songs, Playlists, & Videos",0
+True,Music & Audio,Teen,97M,4.4738235,اغاني مهرجانات شعبي بدون نت 2020,0
+True,Music & Audio,Teen,5.4M,4.214629,Free Music & Videos - Music Player for YouTube,0
+True,Music & Audio,Everyone,Varies with device,4.543162,MP3 Juice - MP3 Music Downloader,0
+True,Music & Audio,Everyone,53M,4.4722223,اغاني راي بدون انترنت  2020 aghani ray,0
+True,Music & Audio,Everyone,4.8M,4.5864444,Music Player - Bass Booster - Free Download,0
+True,Music & Audio,Everyone,16M,4.233108,Shadhin Music,0
+True,Music & Audio,Everyone,10M,3.389313,Geedeon Radio - Deep House & EDM Music,0
+True,Music & Audio,Teen,Varies with device,4.3993244,"Deezer Music Player: Songs, Playlists & Podcasts",0
+True,Music & Audio,Teen,21M,4.4367247,Boomplay:Stream & Download Trending Music for Free,0
+True,Music & Audio,Teen,10M,4.5736036,Free music player for YouTube: Stream,0
+True,Music & Audio,Everyone,60M,4.21,Dildora Niyozova qo'shiqlari,0
+True,Music & Audio,Teen,Varies with device,4.4580097,Free Music MP3 Player(Download LITE,0
+True,Music & Audio,Teen,21M,4.507355,"Anghami - Play, discover & download new music",0
+True,Music & Audio,Everyone,23M,4.637931,Wish 1075,0
+True,Music & Audio,Everyone,2.0M,4.3220468,"हिंदी गाने पुराने, Old Hindi Songs MP3 Music App",0
+True,Music & Audio,Mature 17+,30M,4.6707883,triple j,0
+True,Music & Audio,Everyone,2.0M,4.0701833,"Punjabi Songs, पंजाबी गाने  New DJ MP3 Music App",0
+True,Music & Audio,Everyone,7.1M,4.4739056,HK Radio 香港收音機 - 香港電台 - Chinese Radio 中文收音機,0
+True,Music & Audio,Everyone 10+,6.8M,4.6507936,懷念粵語老歌精選 經典廣東歌 免費音樂歌曲MV播放器,0
+True,Music & Audio,Teen,23M,4.68226,My Mixtapez Music,0
+True,Music & Audio,Everyone,Varies with device,4.389005,Kishore Kumar Hit Songs App,0
+True,Music & Audio,Teen,53M,4.066124,Heart Radio App,0
+True,Music & Audio,Everyone,12M,4.786779,"Radio Poland: Internet Radio, Free FM Radio",0
+True,Music & Audio,Everyone,8.8M,4.2700157,Nhạc Vàng - Trữ Tình - Liên khúc Bolero,0
+True,Music & Audio,Everyone,8.3M,4.5689654,Jamaica Radio,0
+True,Music & Audio,Everyone,19M,4.337483,Simple Drums Pro - The Complete Drum Set,0
+True,Music & Audio,Everyone,12M,4.72906,"Radio USA: Free FM Radio App, Music & News",0
+True,Music & Audio,Teen,13M,4.6868024,"Radio Philippines: FM Radio, Online Radio Stations",0
+True,Music & Audio,Everyone,Varies with device,4.0882134,Hungama Music - Stream & Download MP3 Songs,0
+True,Music & Audio,Everyone,20M,4.627193,Khmer Song | Khmer Music - Mobeetune,0
+True,Music & Audio,Everyone,Varies with device,4.3031855,Raaga Hindi Tamil Telugu songs videos and podcasts,0
+True,Music & Audio,Everyone,3.7M,4.530076,Tamil Fm Radio Hd Online tamil songs,0
+True,Music & Audio,Everyone,12M,4.366234,"Radio Senegal: FM Radio, Radio online",0
+True,Music & Audio,Everyone,13M,4.793089,Relaxing Spa Music,0
+True,Music & Audio,Everyone,5.0M,4.6028967,Free Oldies Radio,0
+True,Music & Audio,Teen,7.4M,4.785965,Jazz & Blues Music Radio,0
+True,Music & Audio,Mature 17+,Varies with device,4.650233,DaMixhub Mixtape & Music Downloader,0
+True,Music & Audio,Everyone,53M,3.2792208,Radio X,0
+True,Music & Audio,Everyone,125M,4.7415185,EXO Offline - KPop,0
+True,Music & Audio,Teen,14M,4.489856,FM Radio India - all India radio stations,0
+True,Music & Audio,Teen,151M,4.617594,Mahrgnat Music 2020,0
+True,Music & Audio,Everyone,16M,4.704656,"Bird Calls, Sounds & Ringtones",0
+True,Music & Audio,Everyone,Varies with device,4.4358025,Music Player,0
+True,Music & Audio,Everyone,8.4M,4.275862,My Music Player,0
+True,Music & Audio,Teen,53M,4.298616,Capital FM Radio App,0
+True,Music & Audio,Everyone,42M,4.6972327,Groovepad - Music & Beat Maker,0
+True,Music & Audio,Everyone,5.4M,4.3500786,Zampoña,0
+False,Music & Audio,Everyone,2.8M,4.5652175,Equalizer Bass Booster Pro,1.99
+False,Music & Audio,Everyone,1.7M,4.1214285,Equalizer FX. Pro,1.99
+False,Music & Audio,Everyone,7.0M,4.1927967,Augustro Music Player (67% OFF),0.99
+False,Music & Audio,Everyone,9.1M,4.203704,Pro Mp3 player - Qamp,0.99
+False,Music & Audio,Everyone,16M,4.131507,PowerAudio Pro Music Player,0.99
+False,Music & Audio,Everyone,Varies with device,4.4257956,BlackPlayer EX Music Player,3.59
+False,Music & Audio,Everyone,Varies with device,4.2660427,USB Audio Player PRO,7.99
+False,Music & Audio,Everyone,5.4M,4.6191354,Pulsar Music Player Pro,1.99
+False,Music & Audio,Everyone,3.5M,4.18,Rec Recorder PRO (NO ADS),5.99
+False,Music & Audio,Everyone,319k,4.2719297,BubbleUPnP UPnP/DLNA License,4.69
+True,Music & Audio,Everyone,16M,4.0,"My Sheet Music - Sheet music viewer, music scanner",0
+False,Music & Audio,Everyone,4.0M,3.96,Booksonic - Audiobook Streamer,2.99
+False,Music & Audio,Everyone,14M,4.109515,PlayerPro Music Player,3.99
+True,Communication,Everyone,Varies with device,4.322094,Skype - free IM & video calls,0
+True,Communication,Everyone,Varies with device,4.214909,Messenger Lite: Free Calls & Messages,0
+True,Communication,Everyone,Varies with device,4.3447714,Viber Messenger - Free Video Calls & Group Chats,0
+True,Communication,Everyone,Varies with device,4.3465743,Opera Mini - fast web browser,0
+True,Communication,Everyone,53M,4.727008,My Beeline,0
+True,Communication,Teen,Varies with device,3.9803839,Kik,0
+True,Communication,Everyone,Varies with device,4.202441,Tor Browser,0
+True,Communication,Everyone,Varies with device,4.1106057,LINE: Free Calls & Messages,0
+True,Communication,Everyone,Varies with device,4.243828,WhatsApp Business,0
+True,Communication,Teen,Varies with device,3.9200258,"UC Browser- Free & Fast Video Downloader, News App",0
+True,Communication,Everyone,85M,4.4276605,"Truecaller: Caller ID, block fraud & scam calls",0
+True,Communication,Everyone,Varies with device,4.318218,Zalo - Video Call,0
+True,Communication,Everyone,118M,4.3515844,Мой Tele2,0
+True,Communication,Everyone,Varies with device,4.3560376,Gmail,0
+True,Communication,Everyone,Varies with device,4.1724405,Google Chrome: Fast & Secure,0
+True,Communication,Everyone,Varies with device,4.384199,Google Voice,0
+True,Communication,Everyone,23M,4.096417,"Talkatone: Free Texts, Calls & Phone Number",0
+True,Communication,Everyone,Varies with device,3.88341,"Firefox Browser: fast, private & safe web browser",0
+True,Communication,Everyone,18M,4.2152824,Moya #datafree,0
+True,Communication,Everyone,Varies with device,4.45887,Google Duo - High Quality Video Calls,0
+True,Communication,Teen,Varies with device,4.4448543,X Plus,0
+True,Communication,Everyone,Varies with device,4.5118375,Microsoft Edge,0
+True,Communication,Teen,Varies with device,3.9616196,imo free HD video calls and chat,0
+True,Communication,Teen,32M,3.8402157,Brilliant Connect,0
+True,Communication,Everyone,Varies with device,4.473033,Yahoo Mail – Organized Email,0
+True,Communication,Everyone,Varies with device,4.092548,Firefox Focus: The privacy browser,0
+True,Communication,Everyone,Varies with device,4.044183,Hangouts,0
+True,Communication,Everyone,6.0M,3.6866972,Xfinity WiFi Hotspots,0
+True,Communication,Teen,47M,3.967413,UC Mini-Download Video Status & Movies,0
+True,Communication,Everyone,Varies with device,4.536422,Opera browser with free VPN,0
+True,Communication,Everyone,17M,1.6769791,myPLDT Smart,0
+True,Communication,Everyone,65M,4.324768,BOSS Revolution® - Cheap International Calling,0
+True,Communication,Everyone,Varies with device,4.3295617,Contacts,0
+True,Communication,Everyone,Varies with device,4.19878,2ndLine - Second Phone Number,0
+True,Communication,Everyone,Varies with device,3.7682927,Naver Whale Browser,0
+True,Communication,Everyone,Varies with device,4.592936,"Brave Private Browser: Fast, safe web browser",0
+True,Communication,Everyone,17M,4.4223495,"Dialer, Phone, Call Block & Contacts by Simpler",0
+True,Communication,Everyone,Varies with device,4.4362597,Samsung Internet Browser,0
+True,Communication,Everyone,21M,4.1326895,Straight Talk My Account,0
+True,Communication,Everyone,25M,3.9255893,TracFone My Account,0
+True,Communication,Everyone,Varies with device,3.8869908,TownWiFi by GMO | WiFi Everywhere,0
+True,Communication,Everyone,5.3M,4.446529,"Web Browser - Fast, Privacy & Light Web Explorer",0
+True,Communication,Everyone,19M,3.742662,Jawwy,0
+True,Communication,Everyone,12M,4.436372,Browser 4G,0
+True,Communication,Everyone,Varies with device,4.2477584,Email App for Any Mail,0
+True,Communication,Everyone,Varies with device,4.5603,Free Adblocker Browser - Adblock & Popup Blocker,0
+True,Communication,Everyone,13M,4.448801,My Airtel,0
+True,Communication,Everyone,8.2M,4.1236305,iTel Mobile Dialer Express,0
+True,Communication,Everyone,Varies with device,4.50206,"myMail: Email App for Gmail, Hotmail & AOL E-Mail",0
+True,Communication,Everyone,25M,2.8611715,Мой А1,0
+True,Communication,Everyone,22M,4.093963,NumberBook- Caller ID & Block,0
+True,Communication,Everyone,Varies with device,4.306854,Opera Mini browser beta,0
+True,Communication,Everyone,116M,3.8412104,Ring - Always Home,0
+True,Communication,Everyone,21M,4.2181816,Xfinity Connect,0
+True,Communication,Everyone,Varies with device,4.1213684,NetShare - no-root-tethering,0
+True,Communication,Everyone,Varies with device,4.105205,Firefox for Android Beta,0
+True,Communication,Everyone,6.9M,4.23267,Speak and Translate All Languages Voice Translator,0
+True,Communication,Everyone,9.5M,4.3852816,Speak and Translate Voice Translator & Interpreter,0
+True,Communication,Everyone,4.4M,4.712715,Moj Telenor,0
+True,Communication,Everyone,22M,4.239773,My Photo Keyboard - Picture Keyboard,0
+True,Communication,Everyone,29M,4.135473,Speak and Translate - Voice Typing with Translator,0
+True,Communication,Everyone,Varies with device,4.281004,"UC Browser Turbo- Fast Download, Secure, Ad Block",0
+True,Communication,Everyone,11M,4.1446543,Free Unblock Sites VPN Proxy Browser,0
+True,Communication,Everyone,26M,3.8404753,Google Wifi,0
+True,Communication,Everyone,6.6M,4.210989,FRITZ!App WLAN,0
+True,Communication,Everyone,22M,4.1165705,Psiphon Pro - The Internet Freedom VPN,0
+True,Communication,Everyone,Varies with device,4.114765,Tor Browser (Alpha),0
+True,Communication,Everyone,13M,3.962983,Contacts+,0
+True,Communication,Everyone,542k,4.1641746,Swarachakra Tamil Keyboard,0
+True,Communication,Everyone,2.2M,4.366245,Write SMS by voice,0
+True,Communication,Everyone,Varies with device,4.1061945,OBDLink (OBD car diagnostics),0
+True,Communication,Everyone,19M,4.31702,"Opera Touch: the fast, new web browser",0
+True,Communication,Everyone,2.4M,4.231792,Swarachakra Marathi Keyboard,0
+True,Communication,Everyone,24M,3.4939759,Israeli Mobile Number for SMS & Voice,0
+True,Communication,Everyone,8.2M,4.3370266,"Showcaller: Caller ID, Call Recorder & Blocker",0
+True,Communication,Everyone,Varies with device,4.0934577,"Dolphin Browser - Fast, Private & Adblock🐬",0
+True,Communication,Everyone,17M,4.0689363,Voter Helpline,0
+True,Communication,Mature 17+,Varies with device,4.3854613,Shadowsocks,0
+True,Communication,Everyone,Varies with device,4.285696,ConnectBot,0
+True,Communication,Everyone,13M,4.380165,Web Browser & Explorer,0
+True,Communication,Everyone,Varies with device,4.006533,Orbot: Tor for Android,0
+True,Communication,Everyone,Varies with device,4.449903,Calls Blacklist - Call Blocker,0
+True,Communication,Everyone,8.8M,4.4063997,"Browsec: FREE & Unlimited VPN, Fast & Secure proxy",0
+True,Communication,Everyone,24M,4.212137,"Sync.ME - Caller ID, Spam Call Blocker & Contacts",0
+True,Communication,Everyone,8.2M,4.3097343,ScanMaster for ELM327 OBD-2 ScanTool,0
+True,Communication,Everyone,Varies with device,2.7742698,SoftBankメール,0
+False,Communication,Everyone,Varies with device,4.233603,CryptoTab Browser Pro—mine on a PRO level,1.99
+False,Communication,Teen,Varies with device,3.396606,TeamSpeak 3 - Voice Chat Software,0.99
+False,Communication,Everyone,84M,4.1969843,FolderSync Pro,2.99
+False,Communication,Everyone,13M,4.42,Privacy Browser,1.0
+False,Communication,Everyone,6.4M,4.55,"Pure Browser Pro-Ad Blocker,Video Download,Player",1.99
+False,Communication,Everyone,Varies with device,4.024079,Calls Blacklist PRO - Call Blocker,1.99
+False,Communication,Everyone,44M,3.69,Groundwire: VoIP SIP Softphone,8.49
+False,Communication,Everyone,19M,3.980198,ZoiPer Pro - SIP Softphone,8.99
+False,Communication,Everyone,3.1M,3.4187193,Private Browser - Fast VPN Incognito Browser,1.99
+False,Communication,Everyone,3.2M,3.9931507,Lightning Browser Plus - Web Browser,1.49
+False,Communication,Everyone,Varies with device,4.3544974,Conversations (Jabber / XMPP),2.49
+False,Communication,Everyone,Varies with device,4.207921,p≡p - The pEp email client with Encryption,0.99
+False,Communication,Everyone,3.6M,3.958042,WazzapMigrator,8.49
+False,Communication,Everyone,23M,3.94,eXport-it UPnP Client/Server,2.15
+True,Communication,Everyone,2.3M,4.581081,Pollo Private browser- Incognito browser & AdBlock,0
